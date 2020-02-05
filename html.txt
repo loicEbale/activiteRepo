@@ -2,22 +2,24 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title>Site html</title>
+	<title>Sitehtml</title>
 </head>
 <body>
-	<h1>La Caféine</h1>
-	<p>La caféine est un stimulant qui aider à travailler de longues heures</p>
+	<div class="container">
+	     <h1>La Caféine</h1>
+	     <p>La caféine est un stimulant qui aider à travailler de longues heures</p>
 	
-	<h5>Exemples de produits caféinés</h5>
-	<ul>
-		<li>Coca Cola</li>
+	     <h5>Exemples de produits caféinés</h5>
+	     <ul>
+	 	<li>Coca Cola</li>
 		<li>Le café moulu</li>
 		<li>La cola</li>
-	</ul>
+	      </ul>
 
-	<p>
-	<a href="https://www.huffingtonpost.fr/2013/08/28/cafeine-sante-effets-savoir-cafe_n_3824694.html" alt="les effets de la caféine">Effet de la caféine </a>
-	</p>
+	      <p>
+	          <a href="https://www.huffingtonpost.fr/2013/08/28/cafeine-sante-effets-savoir-cafe_n_3824694.html" alt="les effets de la caféine">Effet de la caféine </a>
+	     </p>
+	</div>
 
 </body>
 </html>
