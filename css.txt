@@ -1,5 +1,7 @@
 body { 
-  background-color:white; 
+  background-color:white;
+  background-img: url(/images/img.jpg);
+  background-size: cover;
 }
 
 .container {
@@ -14,4 +16,8 @@ h1 {
   text-transform: uppercase;
 }
 
+ul li {
+  font_weight: lighter;
+  font-size: 0.8e;
+}
 
